@@ -1,0 +1,15 @@
+/home/prodmn210/Desktop/jenkins/workingwithjenki/bin/Debug/net6.0/workingwithjenki
+/home/prodmn210/Desktop/jenkins/workingwithjenki/bin/Debug/net6.0/workingwithjenki.deps.json
+/home/prodmn210/Desktop/jenkins/workingwithjenki/bin/Debug/net6.0/workingwithjenki.runtimeconfig.json
+/home/prodmn210/Desktop/jenkins/workingwithjenki/bin/Debug/net6.0/workingwithjenki.dll
+/home/prodmn210/Desktop/jenkins/workingwithjenki/bin/Debug/net6.0/ref/workingwithjenki.dll
+/home/prodmn210/Desktop/jenkins/workingwithjenki/bin/Debug/net6.0/workingwithjenki.pdb
+/home/prodmn210/Desktop/jenkins/workingwithjenki/obj/Debug/net6.0/workingwithjenki.csproj.AssemblyReference.cache
+/home/prodmn210/Desktop/jenkins/workingwithjenki/obj/Debug/net6.0/workingwithjenki.GeneratedMSBuildEditorConfig.editorconfig
+/home/prodmn210/Desktop/jenkins/workingwithjenki/obj/Debug/net6.0/workingwithjenki.AssemblyInfoInputs.cache
+/home/prodmn210/Desktop/jenkins/workingwithjenki/obj/Debug/net6.0/workingwithjenki.AssemblyInfo.cs
+/home/prodmn210/Desktop/jenkins/workingwithjenki/obj/Debug/net6.0/workingwithjenki.csproj.CoreCompileInputs.cache
+/home/prodmn210/Desktop/jenkins/workingwithjenki/obj/Debug/net6.0/workingwithjenki.dll
+/home/prodmn210/Desktop/jenkins/workingwithjenki/obj/Debug/net6.0/ref/workingwithjenki.dll
+/home/prodmn210/Desktop/jenkins/workingwithjenki/obj/Debug/net6.0/workingwithjenki.pdb
+/home/prodmn210/Desktop/jenkins/workingwithjenki/obj/Debug/net6.0/workingwithjenki.genruntimeconfig.cache
